@@ -1,8 +1,11 @@
-import './App.css'
+import './App.css';
+import BattleScreen from './components/BattleScreen.jsx';
 
+ 
 function App() {
-  return (
 
+  return (
+    <BattleScreen />
 
   )
 }
